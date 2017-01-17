@@ -10,6 +10,7 @@ namespace tuhoamut
     {
         static void Main(string[] args)
         {
+            //hueheuheue
         }
     }
 }
